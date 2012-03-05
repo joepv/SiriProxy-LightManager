@@ -1,0 +1,13 @@
+SiriProxy-LightManager
+
+Control your KlikAanKlikUit (InterTechno) or other devices using a JBmedia LightManager and SiriProxy.
+
+Video: http://www.youtube.com/watch?v=dO0sCHHAiyQ
+
+I tried to program the commands to be as natural as possible, so the plugin listens to simple keywords. Therefore I created two speaking scenario's for each ON/OFF/DIM command with regex patterns.
+
+For example you can say:
+
+a) Please turn on the lights above the table.
+b) Turn the lights above the table on.
+
